@@ -1,0 +1,21 @@
+machine_id,machine_type,production_time,product_type,production_volume,production_date,production_shift,machine_maintenance,raw_material_usage,quality_control
+1,extruding machine B,120,textile grade,500 kg,2021-01-01,day shift,2021-01-01,chemicals A and B,yes
+2,extruding machine B,100,textile grade,450 kg,2021-01-02,day shift,2021-01-02,chemicals A and C,yes
+3,extruding machine C,110,industrial grade,400 kg,2021-01-03,day shift,2021-01-03,chemicals B and C,yes
+4,extruding machine D,90,textile grade,350 kg,2021-01-04,day shift,2021-01-04,chemicals A and B,no
+5,printing machine A,80,textile grade,300 kg,2021-01-05,day shift,2021-01-05,chemicals A and C,yes
+6,printing machine B,70,industrial grade,250 kg,2021-01-06,day shift,2021-01-06,chemicals B and C,yes
+7,printing machine C,60,textile grade,200 kg,2021-01-07,day shift,2021-01-07,chemicals A and B,no
+8,printing machine D,50,industrial grade,150 kg,2021-01-08,day shift,2021-01-08,chemicals A and C,yes
+9,cutting machine A,40,textile grade,100 kg,2021-01-09,day shift,2021-01-09,chemicals B and C,yes
+10,cutting machine B,30,industrial grade,75 kg,2021-01-10,day shift,2021-01-10,chemicals A and B,yes
+11,cutting machine C,20,textile grade,50 kg,2021-01-11,day shift,2021-01-11,chemicals A and C,no
+12,cutting machine D,10,industrial grade,25 kg,2021-01-12,day shift,2021-01-12,chemicals B and C,yes
+13,punching machine A,5,textile grade,10 kg,2021-01-13,day shift,2021-01-13,chemicals A and B,yes
+14,punching machine B,10,industrial grade,15 kg,2021-01-14,day shift,2021-01-14,chemicals A and C,yes
+15,punching machine C,15,industrial grade,25 kg,2021-01-15,day shift,2021-01-15,chemicals B and C,no
+16,punching machine D,15,industrial grade,25 kg,2021-01-16,day shift,2021-01-16,chemicals B and C,no
+17,recycling machine A,5,textile grade,10 kg,2021-01-17,day shift,2021-01-17,chemicals A and B,yes
+18,recycling machine B,10,industrial grade,15 kg,2021-01-18,day shift,2021-01-18,chemicals A and C,yes
+19,recycling machine C,15,industrial grade,25 kg,2021-01-19,day shift,2021-01-19,chemicals B and C,no
+20,recycling machine D,25,industrial grade,50 kg,2021-01-20,day shift,2021-01-20,chemicals B and C,no
