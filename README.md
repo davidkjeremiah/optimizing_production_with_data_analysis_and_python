@@ -17,6 +17,10 @@ The production data contains the following features:
 * `raw_material_usage:` Information about the raw materials used in this production run, such as the type and quantity of chemicals used.
 * `quality_control:` Information about any quality control measures that were taken during production, such as testing for defects or measuring the dimensions of the finished products.
 
+## Project Requirements
+* Python 3.x
+* pandas
+
 ## Methodology
 
 This code provided does the following:
